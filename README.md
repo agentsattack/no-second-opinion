@@ -43,7 +43,7 @@ on it:
 |---|---|
 | pre-registered test matrix | `60853077e446dd228ff0dae956b2d67925f63329f58d7107534af4fa138571e2` |
 | envelope pre-registration | `25937a1f761ecd42503579df8e41868ae269a34a3ad1e7bfa830e5b081e7c732` |
-| evidence manifest (twelve stores, 11,517 files, verified on two hosts) | `d01f0c2a62ae7236287ee64623a4d69b103784a10235de934ffd2bce093336c3` |
+| evidence manifest (fourteen stores, 11,854 files, verified on two hosts) | `68391088798b6263f6346d6a092023e8f098bd4549859cafc100ad586b4f5d93` |
 | the citing commit of the private tree | `ea30b83` |
 
 ## Contact
